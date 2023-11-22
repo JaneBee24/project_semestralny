@@ -1,3 +1,16 @@
+h1,
+p,
+ul {
+  margin: 0;
+}
+ul {
+  list-style: none;
+  padding: 0;
+}
+
+:root{
+    --black-color: #1E1E1E;
+}
 
 
 .text{
@@ -7,8 +20,4 @@ font-size: 40px;
 font-style: italic;
 font-weight: 200;
 line-height: normal;
-}
-
-.sex_list{
-    list-style-type: none;
 }
