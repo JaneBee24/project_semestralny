@@ -1,3 +1,14 @@
+
+
+.text{
+    color: #1E1E1E;
+font-family: Inter;
+font-size: 40px;
+font-style: italic;
+font-weight: 200;
+line-height: normal;
+}
+
 .sex_list{
     list-style-type: none;
 }
