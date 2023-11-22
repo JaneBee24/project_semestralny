@@ -14,10 +14,14 @@ ul {
 
 
 .text{
-    color: #1E1E1E;
+    color: var(--black-color);
 font-family: Inter;
 font-size: 40px;
 font-style: italic;
 font-weight: 200;
 line-height: normal;
+}
+
+.adress-list{
+  color: var(--black-color);
 }
