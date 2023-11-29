@@ -25,3 +25,10 @@ line-height: normal;
 .adress-list{
   color: var(--black-color);
 }
+
+.homepage-img{
+    position: absolute;
+    object-position: center top;
+    height: 100%;
+    width: 100%;
+}
