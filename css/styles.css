@@ -31,4 +31,7 @@ line-height: normal;
     object-position: center top;
     height: 100%;
     width: 100%;
+    border-right: 25px;
+    border-left: 25px;
+    
 }
