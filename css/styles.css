@@ -40,9 +40,6 @@ line-height: normal;
 .sex-list-ul{
   position: relative; 
   display: flex;
-  
-}
-
-.sex-list{
   gap: 70px;
 }
+
