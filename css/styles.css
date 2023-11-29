@@ -22,6 +22,10 @@ font-weight: 200;
 line-height: normal;
 }
 
+.logo-text{
+  font-size: 96px;
+}
+
 .adress-list{
   color: var(--black-color);
 }
