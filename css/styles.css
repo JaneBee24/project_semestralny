@@ -7,9 +7,17 @@ ul {
   list-style: none;
   padding: 0;
 }
+a{
+
+}
 
 :root{
     --black-color: #1E1E1E;
+    --blue-color: #404BBF;
+}
+
+.link:hover, .link:focus{
+  color: var(--blue-color);
 }
 
 
