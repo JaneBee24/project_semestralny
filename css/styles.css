@@ -33,5 +33,10 @@ line-height: normal;
     width: 100%;
     border-right: 25px;
     border-left: 25px;
-    
+
+}
+
+
+.sex-list{
+  position: relative; 
 }
